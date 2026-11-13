@@ -289,7 +289,7 @@ Unlike traditional deep learning models that require labels for every image patc
 
 Each Whole Slide Image is treated as a **bag**, while every extracted patch acts as an **instance** inside that bag.
 
-![tumor](tumor_2.jpeg)
+![tumor_2](Tumor_2.jpeg)
 
 The model automatically learns which patches contribute most toward the final prediction.
 
@@ -310,7 +310,7 @@ Every image requires its own annotation.
 
 In Multiple Instance Learning:
 
-![tumor](tumor.jpeg)
+![tumor](Tumor.jpeg)
 
 The model determines which patches are important without requiring individual patch annotations.
 
